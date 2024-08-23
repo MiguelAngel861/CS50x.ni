@@ -1,5 +1,6 @@
-
-![Logo](https://miro.medium.com/v2/resize:fit:700/1*IYCifTCCR2ah-79u94Z3wg.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*IYCifTCCR2ah-79u94Z3wg.png" />
+</p>
 
 
 # CS50x.ni - 2024 Edition.
