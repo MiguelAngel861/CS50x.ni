@@ -3,7 +3,7 @@
 
 
 # CS50x.ni - 2024 Edition.
-CS50x.ni es un programa de Fundación Uno en unión estratégica con CS50 Harvard y la Universidad Nacional de Ingeniería (UNI), en el que se desarrolla una: «Introducción a las disciplinas intelectuales de la informática y al arte de la programación.»
+CS50x es el curso introductorio de la Universidad de Harvard sobre informática y programación, accesible tanto para estudiantes como para quienes no tienen experiencia previa en el área. Impartido por David J. Malan, este curso básico enseña a pensar de manera algorítmica y a resolver problemas de forma eficiente. Entre los temas abordados se encuentran la abstracción, los algoritmos, las estructuras de datos, la encapsulación, la gestión de recursos, la seguridad, la ingeniería de software y el desarrollo web. Los lenguajes de programación enseñados incluyen C, Python, SQL, JavaScript, CSS y HTML. Los problemas que se presentan están inspirados en situaciones del mundo real, como la biología, la criptografía, las finanzas, la ciencia forense y los videojuegos.
 
 Este repositorio fue creado para almacenar ejemplos y tareas impartidas en el curso CS50x.ni durante el año 2024. Este repositorio no esta destinado para compartir los ejercicios de manera antiacademica.
 
